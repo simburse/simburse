@@ -7,7 +7,7 @@
 
 # Site settings
 title: Simburse
-email: info@simburse.com
+email: sales@simburse.com
 description: > # this means to ignore newlines until "baseurl:"
   Simple Reimbursements for Expense Reports
 baseurl: "" # the subpath of your site, e.g. /blog
